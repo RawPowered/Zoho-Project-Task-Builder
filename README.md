@@ -1,9 +1,11 @@
 <h1 align="center">Project Task Builder for Zoho CRM</h1>
 <p align="center"><strong>Turn project scope into a task plan.</strong><br>A template-driven Deal workspace for preparing package-specific task plans, reviewing overrides and coordinating a controlled handoff into Zoho Projects.</p>
-<p align="center">Commercial product showcase · Licensing and installation by arrangement</p>
+<p align="center">Tested &amp; In Development / Pre-Release · Development showcase and fictional-data tours</p>
+
+> **Tested & In Development / Pre-Release.** Testing covers documented development checks only. Production readiness and customer-specific acceptance remain pending.
 
 > [!IMPORTANT]
-> **Showcase only.** This public repository contains product information and fictional demonstration media. It provides no software source, installable packages, free beta downloads or software license. Commercial availability and deployment scope are agreed privately. Product validation and the limitations below still apply.
+> **Showcase only.** This public repository contains product information and fictional demonstration media. It provides no software source, installable packages, free beta downloads or software license. Release availability remains pending; any future deployment scope will be agreed privately. Product validation and the limitations below still apply.
 
 [Discuss a commercial installation](https://github.com/RawPowered/Zoho-Project-Task-Builder/issues/new?template=commercial-inquiry.yml) · [Deployment model](DEPLOYMENT.md) · [Commercial terms overview](COMMERCIAL.md)
 
@@ -70,7 +72,7 @@ Schema, access profiles, workflows and service connections are reviewed for the 
 - Retry and interrupted-sync behavior must be tested with synthetic projects before production.
 - Built-in templates are starting points and require review for the customer's actual delivery process.
 
-This is a commercial product under validation, not a free beta offer. Account-specific acceptance is required before production activation. Credentials and customer data are configured privately in the customer environment.
+Status: **Tested & In Development / Pre-Release**. Account-specific acceptance is required before production activation. Credentials and customer data are configured privately in the customer environment.
 
 ## Commercial availability
 
